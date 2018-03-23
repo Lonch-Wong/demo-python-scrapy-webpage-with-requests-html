@@ -19,13 +19,14 @@ Use scrapy
 
   Jupyter notebook
 
-  在jupyter notebook上进行代码的编辑。
+  在jupyter notebook上进行代码的编辑
 
 1.2开发过程
 
-  按照Shuyi Wang教程进行编辑
+  按照Mr.Wang教程进行编辑
+  代码在zip文件中
 
 1.3发布
 
-  爬取的结果text,link在压缩包内的output文件。
+  爬取的结果text,link在zip的output文件。
 
